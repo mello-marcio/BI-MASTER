@@ -1,4 +1,4 @@
-# Caminho Ótimo na Preparação de Conteúdo OTT
+# Caminho Ótimo na Preparação de Conteúdo Sob Demanda
 
 #### Aluno: Marcio Albernaz de Mello (https://github.com/mello-marcio) 
 #### Orientador(/a/es/as): Ana Carolina (prof.carolina@ica.ele.puc-rio.br) e Felipe Borges (prof.felipe@ica.ele.puc-rio.br).
